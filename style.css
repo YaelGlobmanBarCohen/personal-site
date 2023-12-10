@@ -1,0 +1,62 @@
+.background-color{
+    background: rgb(244,193,224);
+    background: linear-gradient(335deg, rgba(244,193,224,1) 0%, rgba(239,229,216,1) 67%);
+    padding-top: 20px;
+}
+
+#resume, #about, #projects, #contact{
+    color: #740f4c;
+    gap: 20px;
+} 
+
+#yael{
+    color: #740f4c;
+    font-family: 'Pacifico', cursive;
+}
+
+.hand-write-pink{
+    color: #740f4c;
+    font-family: 'Montserrat Alternates', sans-serif;
+}
+
+.btn.emphasis, #home{
+    background-color: #740f4c;
+    color: white;
+}
+
+#udemy{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.years{
+    color: blue;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+
+#education h3{
+    margin-top: 50px;
+    color: #740f4c;
+}
+
+.work-text{
+    margin-top: 0px;
+    margin-bottom: 40px;
+}
+
+
+
+
+button.light{
+    color: #740f4c;
+    border-color: #740f4c;
+}
+
+.light-pink-color{
+    color: #493315;
+}
+
+.light-brown-color{
+    color: #efe5d8;
+}

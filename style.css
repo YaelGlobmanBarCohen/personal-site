@@ -17,6 +17,7 @@
 .hand-write-pink{
     color: #740f4c;
     font-family: 'Montserrat Alternates', sans-serif;
+    margin-bottom: 20px;
 }
 
 .btn.emphasis, #home{
@@ -45,7 +46,9 @@
     margin-bottom: 40px;
 }
 
-
+.margin{
+    padding: 80px;
+}
 
 
 button.light{

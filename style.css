@@ -4,7 +4,7 @@
     padding-top: 20px;
 }
 
-#resume, #about, #projects, #contact{
+#resume, #about, #projects, #contact, #home{
     color: #740f4c;
     gap: 20px;
 } 
@@ -20,7 +20,7 @@
     margin-bottom: 20px;
 }
 
-.btn.emphasis, #home{
+.btn.emphasis, #current{
     background-color: #740f4c;
     color: white;
 }
